@@ -1,1 +1,1 @@
-# Machine clearning problems: Audio, RL, Images
+# Machine learning problems: Audio, RL, Images
